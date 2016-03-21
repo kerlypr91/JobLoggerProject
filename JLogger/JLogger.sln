@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JLogger", "JLogger\JLogger.csproj", "{EAF6B648-4C87-4E47-8E74-471F46A54F19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JLoggerTests", "JLoggerTests\JLoggerTests.csproj", "{C9B08320-9B88-4FD6-86A6-61D288571513}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAF6B648-4C87-4E47-8E74-471F46A54F19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAF6B648-4C87-4E47-8E74-471F46A54F19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAF6B648-4C87-4E47-8E74-471F46A54F19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAF6B648-4C87-4E47-8E74-471F46A54F19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9B08320-9B88-4FD6-86A6-61D288571513}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9B08320-9B88-4FD6-86A6-61D288571513}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9B08320-9B88-4FD6-86A6-61D288571513}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9B08320-9B88-4FD6-86A6-61D288571513}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
